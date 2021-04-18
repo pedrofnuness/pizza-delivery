@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Poppins;
+}
+
+:root {
+  --primary: #a01916;
+  --secondary: #b28126;
+  --secondary-dark: #a87a24;
+  --tertiary: #442c11;
+  --white: #fff;
+  --black: #000;
+}
+
+body {
+  background-color: var(--primary);
+  color: var(--white);
+}
