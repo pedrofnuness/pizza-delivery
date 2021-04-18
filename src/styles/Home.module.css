@@ -25,7 +25,6 @@
 
   width: 100%;
   height: 40px;
-  transition: 0.3s;
 
   /* TODO: REDUCE TRANSITION TIME WHEN BUTTON IS UNPRESSED,  COMPONENTIZE THE BUTTON AND MAKE HIM GO TO NEXT STEP COMPONENT*/
 }
@@ -35,7 +34,6 @@
 }
 
 .button:active {
-  transition: 0s;
   transform: translateY(4px);
   box-shadow: none;
 }
