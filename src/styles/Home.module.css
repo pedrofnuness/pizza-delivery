@@ -1,0 +1,50 @@
+.container {
+  min-height: 100vh;
+  padding: 1.56rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button {
+  background: var(--secondary);
+
+  color: var(--white);
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.4);
+
+  width: 100%;
+  height: 40px;
+  transition: 0.3s;
+
+  /* TODO: REDUCE TRANSITION TIME WHEN BUTTON IS UNPRESSED,  COMPONENTIZE THE BUTTON AND MAKE HIM GO TO NEXT STEP COMPONENT*/
+}
+
+.button:hover {
+  background: var(--secondary-dark);
+}
+
+.button:active {
+  transition: 0s;
+  transform: translateY(4px);
+  box-shadow: none;
+}
+
+.container footer {
+  align-items: center;
+}
+
+.container footer p {
+  text-align: center;
+  font-size: 14px;
+}
