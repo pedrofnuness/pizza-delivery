@@ -1,6 +1,6 @@
 .container {
   min-height: 100vh;
-  padding: 1.56rem;
+  padding: 30px;
 
   display: flex;
   flex-direction: column;
@@ -24,9 +24,8 @@
   box-shadow: 0 4px 0 rgba(0, 0, 0, 0.4);
 
   width: 100%;
+  max-width: 260px;
   height: 40px;
-
-  /* TODO: REDUCE TRANSITION TIME WHEN BUTTON IS UNPRESSED,  COMPONENTIZE THE BUTTON AND MAKE HIM GO TO NEXT STEP COMPONENT*/
 }
 
 .button:hover {
