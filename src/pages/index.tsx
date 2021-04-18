@@ -1,5 +1,4 @@
-import Head from "next/head";
-import DoughStep from "../components/doughStepComponent";
+import DoughStep from "../components/DoughStep";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
