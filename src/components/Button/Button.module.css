@@ -1,0 +1,28 @@
+.button {
+  background: var(--secondary);
+
+  color: var(--white);
+  font-weight: bold;
+  font-size: 15px;
+  text-align: center;
+
+  outline: none;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.4);
+
+  width: 100%;
+  max-width: 260px;
+  height: 40px;
+}
+
+.button:hover {
+  background: var(--secondary-dark);
+}
+
+.button:active {
+  transform: translateY(4px);
+  box-shadow: none;
+}
