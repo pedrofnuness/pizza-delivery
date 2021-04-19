@@ -1,0 +1,17 @@
+{
+  "pizzaOfDay": {
+    "title": "Pepperizza",
+    "ingredients": "Pepperoni, Queijo, Pimentão, Tomate e Azeitona.",
+    "points": "3"
+  },
+  "flavors": [
+    "Calabresa",
+    "Muzzarela",
+    "Catupiri",
+    "Pepperoni",
+    "4 Queijos",
+    "Portuguesa"
+  ],
+  "crusts": ["Chocolate", "Cheddar", "Catupiry"],
+  "doughs": ["Tradicional", "Nova-Iorquina", "Siciliana"]
+}
