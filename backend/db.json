@@ -2,7 +2,7 @@
   "pizzaOfDay": {
     "title": "Pepperizza",
     "ingredients": "Pepperoni, Queijo, Pimentão, Tomate e Azeitona.",
-    "points": "3"
+    "points": 3
   },
   "flavors": [
     "Calabresa",
