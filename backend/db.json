@@ -13,5 +13,6 @@
     "Portuguesa"
   ],
   "crusts": ["Chocolate", "Cheddar", "Catupiry"],
-  "doughs": ["Tradicional", "Nova-Iorquina", "Siciliana"]
+  "doughs": ["Tradicional", "Nova-Iorquina", "Siciliana"],
+  "sizes": ["Média(30 cm)", "Grande (40 cm)", "Família (50 cm)"]
 }
