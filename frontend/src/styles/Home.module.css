@@ -16,3 +16,13 @@
   text-align: center;
   font-size: 14px;
 }
+
+.headerTitle:hover {
+  cursor: pointer;
+}
+
+@media (min-width: 700px) {
+  .headerTitle {
+    font-size: 42px;
+  }
+}
