@@ -11,7 +11,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 # Clone este repositório
 
 ```bash
-$ git clone <https://github.com/pedrofnuness/pizza-delivery>
+$ git clone https://github.com/pedrofnuness/pizza-delivery
 ```
 
 # Acesse a pasta do projeto no terminal/cmd
