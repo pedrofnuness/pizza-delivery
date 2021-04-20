@@ -65,6 +65,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Redux](https://redux.js.org/)
 - [React Redux](https://react-redux.js.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [CSS-Modules](https://github.com/css-modules/css-modules)
 - [JSON Server](https://github.com/typicode/json-server)
 - [Axios](https://github.com/axios/axios)
 
